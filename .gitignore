@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+.enev.development
 # production
 /build
 
